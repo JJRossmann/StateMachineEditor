@@ -1,1 +1,1 @@
-State Machine Editor in Java
+State Machine Editor in JavaFX
